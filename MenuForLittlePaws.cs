@@ -76,7 +76,7 @@ namespace LittlePaws
                     }
                 }
 
-                Console.WriteLine("Oops! selection is not valid.Please press any key to try again.");
+                Console.WriteLine("Oops! Selection is not valid.Please press any key to try again.");
                 Console.ReadKey();
             }
         }
