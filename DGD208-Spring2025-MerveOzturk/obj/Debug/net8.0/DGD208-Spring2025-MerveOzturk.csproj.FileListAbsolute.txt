@@ -1,0 +1,4 @@
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.GeneratedMSBuildEditorConfig.editorconfig
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.AssemblyInfoInputs.cache
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.AssemblyInfo.cs
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.csproj.CoreCompileInputs.cache
