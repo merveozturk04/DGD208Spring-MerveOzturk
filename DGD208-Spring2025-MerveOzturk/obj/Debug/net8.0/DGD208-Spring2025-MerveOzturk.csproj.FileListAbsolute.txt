@@ -1,0 +1,14 @@
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.GeneratedMSBuildEditorConfig.editorconfig
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.AssemblyInfoInputs.cache
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.AssemblyInfo.cs
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.csproj.CoreCompileInputs.cache
+E:\DGD208-Spring2025-MerveOzturk\bin\Debug\net8.0\DGD208-Spring2025-MerveOzturk.exe
+E:\DGD208-Spring2025-MerveOzturk\bin\Debug\net8.0\DGD208-Spring2025-MerveOzturk.deps.json
+E:\DGD208-Spring2025-MerveOzturk\bin\Debug\net8.0\DGD208-Spring2025-MerveOzturk.runtimeconfig.json
+E:\DGD208-Spring2025-MerveOzturk\bin\Debug\net8.0\DGD208-Spring2025-MerveOzturk.dll
+E:\DGD208-Spring2025-MerveOzturk\bin\Debug\net8.0\DGD208-Spring2025-MerveOzturk.pdb
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.dll
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\refint\DGD208-Spring2025-MerveOzturk.dll
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.pdb
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\DGD208-Spring2025-MerveOzturk.genruntimeconfig.cache
+E:\DGD208-Spring2025-MerveOzturk\obj\Debug\net8.0\ref\DGD208-Spring2025-MerveOzturk.dll
